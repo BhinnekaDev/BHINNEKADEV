@@ -10,11 +10,11 @@
 ---
 
 ### 👩‍💻 **Tentang Kami**
-Kami adalah tim pengembang yang bersemangat, berbasis di Indonesia, dengan fokus pada teknologi **JavaScript**. Kami berkomitmen untuk menciptakan aplikasi modern yang berbasis **web** dan **mobile**, serta siap berkolaborasi dengan berbagai proyek.
+Kami adalah tim pengembang yang berbasis di Indonesia, berfokus pada pengembangan aplikasi web dan mobile dengan teknologi **JavaScript**. Kami berkomitmen untuk menciptakan aplikasi yang modern, inovatif, dan handal.
 
 - 🔭 **Proyek yang Sedang Dikerjakan**: Aplikasi berbasis web dan mobile modern
-- 📚 **Pembelajaran Berkelanjutan**: Selalu mencari dan mengadopsi teknologi terbaru
-- 🤝 **Kolaborasi**: Terbuka untuk bekerja bersama dalam berbagai proyek
+- 📚 **Pembelajaran Berkelanjutan**: Terus berkembang dengan teknologi terbaru
+- 🤝 **Kolaborasi**: Terbuka untuk bekerja sama dalam proyek-proyek menarik
 - ⚡ **Kekuatan Komunitas**: Berbagi ilmu dan berkembang bersama
 
 ---
@@ -22,30 +22,13 @@ Kami adalah tim pengembang yang bersemangat, berbasis di Indonesia, dengan fokus
 ### 🛠️ **Keahlian dan Teknologi yang Kami Gunakan**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c++ logo" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,react,firebase,php,mysql,nextjs,nodejs,sass,html,css,tailwind,bootstrap,git,threejs,c,laravel" height="200" alt="tech stack logos" />
 </div>
 
 ---
 
 ### 💡 **Kenapa Memilih Kami?**
-Kami membawa pengalaman yang kuat dalam mengembangkan aplikasi web dan mobile, serta keahlian dalam berbagai teknologi terkini. Dengan tim yang penuh semangat dan dedikasi, kami siap membantu Anda mengembangkan aplikasi yang **inovatif**, **handal**, dan **scalable**.
+Kami memiliki pengalaman luas dalam mengembangkan aplikasi web dan mobile yang scalable dan berkinerja tinggi. Tim kami berfokus pada kualitas, desain yang modern, dan kolaborasi yang efektif.
 
 ---
 
@@ -57,12 +40,15 @@ Kami membawa pengalaman yang kuat dalam mengembangkan aplikasi web dan mobile, s
 ---
 
 ### 🚀 **Hubungi Kami**
-Jangan ragu untuk menghubungi kami jika Anda tertarik untuk bekerja bersama atau memiliki pertanyaan lebih lanjut! Kami sangat terbuka untuk proyek-proyek baru dan kolaborasi.
-
----
+Kami selalu terbuka untuk bekerja sama dalam proyek-proyek menarik. Jangan ragu untuk menghubungi kami!
 
 <div align="center">
   <a href="mailto:bhinnekadev24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kami" />
   </a>
 </div>
+
+---
+
+### ✨ **Punya Ide atau Proyek?**
+Jika Anda memiliki ide atau proyek, mari berdiskusi! Kami siap membantu Anda mewujudkan proyek tersebut dengan teknologi terbaru dan pendekatan desain yang efisien.
