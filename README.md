@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=BhinnekaDev&label=Pengunjung&color=yellowgreen&style=flat-square" alt="Pengunjung" />
 </div>
 
-# 🎉 **Selamat Datang di Profil BhinnekaDev** 🎉  
+# 🎉 **Selamat Datang di Profil BhinnekaDev!** 🎉  
 ### **🌟 Tim Pengembang Inovatif dari Indonesia 🌟**
 
 ---
