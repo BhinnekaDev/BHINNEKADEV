@@ -2,8 +2,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BhinnekaDev&label=Pengunjung&color=yellowgreen&style=flat-square" alt="Pengunjung" />
-  <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/Hubungi-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Kami" /></a>
-  <a href="https://bhinneka-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portofolio%20Saya-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
+</div>
+
+<div align="center">
+  <a href="https://wa.me/+6282318334287" target="_blank"><img src="https://img.shields.io/badge/Hubungi%20Kami-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Kami" /></a>
+  <a href="https://bhinneka-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portofolio%20Kami-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
 </div>
 
 # 🎉 **Selamat Datang di Profil BhinnekaDev!** 🎉  
