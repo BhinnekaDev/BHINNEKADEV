@@ -50,7 +50,7 @@ Kami adalah **BhinnekaDev**, sebuah tim pengembang profesional dari Indonesia ya
 
 ## 📧 **Hubungi Kami**  
 Kami selalu siap untuk berkolaborasi dalam proyek yang inovatif.  
-💡 **Punya ide atau proyek? Mari berdiskusi**  
+💡 **Punya ide atau proyek? Mari berdiskusi!**  
 <div align="center">
   <a href="mailto:bhinnekadev24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kami" />
