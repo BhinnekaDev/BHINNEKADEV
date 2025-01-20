@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 **Tentang Kami**  
+## 👩‍💻 **Tentang Kam**  
 Kami adalah **BhinnekaDev**, sebuah tim pengembang profesional dari Indonesia yang fokus pada:  
 - 🌐 **Pengembangan Aplikasi Web & Mobile** dengan teknologi modern.  
 - 📚 **Inovasi dan Pembelajaran Berkelanjutan** untuk menciptakan solusi berkualitas tinggi.  
