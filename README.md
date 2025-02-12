@@ -14,7 +14,7 @@
 
 ---
 
-## 🔍 **Siapa Kami**  
+## 🔍 **Siapa Kami?**  
 Kami adalah **BhinnekaDev**, tim pengembang profesional yang berfokus pada:  
 ✅ **Pengembangan Web, Aplikasi Mobile & Desktop** dengan teknologi modern.  
 ✅ **Inovasi Berkelanjutan** untuk menciptakan solusi terbaik.  
