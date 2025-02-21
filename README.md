@@ -10,7 +10,7 @@
 </div>
 
 # 🚀 **Selamat Datang di BhinnekaDev!**  
-### **💡 Tim Pengembang Inovatif dari Indonesi**
+### **💡 Tim Pengembang Inovatif dari Indonesia**
 
 ---
 
