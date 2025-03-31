@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=BhinnekaDev&label=Pengunjung&color=yellowgreen&style=flat-square" alt="Pengunjung" />
 </div>
 
-<div align="cente">
+<div align="center">
   <a href="https://wa.me/+6281217044800" target="_blank"><img src="https://img.shields.io/badge/Hubungi%20Kami-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Kami" /></a>
   <a href="https://bhinneka-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portofolio%20Kami-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
 </div>
