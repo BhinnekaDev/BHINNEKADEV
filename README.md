@@ -35,7 +35,7 @@ Kami adalah **BhinnekaDev**, tim pengembang profesional yang berfokus pada:
 
 ## 💻 **Teknologi yang Kami Kuasai**  
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=ts,js,react,firebase,php,mysql,nextjs,nodejs,sass,html,css,tailwind,bootstrap,git,laravel" height="200" alt="tech stack logos" /> 
+  <img src="https://skillicons.dev/icons?i=ts,js,react,firebase,php,mysql,nextjs,nodejs,sass,html,css,tailwind,bootstrap,git,laravel,supabase,docker,postman" height="200" alt="tech stack logos" /> 
 </div>
 
 ---
