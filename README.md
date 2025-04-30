@@ -1,66 +1,73 @@
+Tentu! Berikut adalah versi terjemahan dalam bahasa Inggris dari konten tersebut:
+
+---
+
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhinnekaDev&label=Pengunjung&color=yellowgreen&style=flat-square" alt="Pengunjung" />
+  <img src="https://komarev.com/ghpvc/?username=BhinnekaDev&label=Visitors&color=yellowgreen&style=flat-square" alt="Visitors" />
 </div>
 
 <div align="center">
-  <a href="https://wa.me/+6281217044800" target="_blank"><img src="https://img.shields.io/badge/Hubungi%20Kami-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Kami" /></a>
-  <a href="https://bhinneka-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portofolio%20Kami-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
+  <a href="https://wa.me/+6281217044800" target="_blank"><img src="https://img.shields.io/badge/Contact%20Us-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Contact Us" /></a>
+  <a href="https://bhinneka-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Our%20Portfolio-Website-orange?style=for-the-badge&logo=github" alt="Portfolio" /></a>
 </div>
 
-# 🚀 **Selamat Datang di BhinnekaDev!**  
-### **💡 Tim Pengembang Inovatif dari Indonesia**
+# 🚀 **Welcome to BhinnekaDev!**  
+### **💡 An Innovative Developer Team from Indonesia**
 
 ---
 
-## 🔍 **Siapa Kami?**  
-Kami adalah **BhinnekaDev**, tim pengembang profesional yang berfokus pada:  
-✅ **Pengembangan Web, Aplikasi Mobile & Desktop** dengan teknologi modern.  
-✅ **Inovasi Berkelanjutan** untuk menciptakan solusi terbaik.  
-✅ **Kolaborasi Profesional** dengan individu dan perusahaan.  
-✅ **Komunitas & Berbagi Ilmu** untuk tumbuh bersama.  
+## 🔍 **Who Are We?**  
+We are **BhinnekaDev**, a professional development team focused on:  
+✅ **Web, Mobile & Desktop Application Development** using modern technologies.  
+✅ **Continuous Innovation** to deliver the best solutions.  
+✅ **Professional Collaboration** with individuals and companies.  
+✅ **Community & Knowledge Sharing** to grow together.  
 
 ---
 
-## 🎯 **Kenapa Harus BhinnekaDev?**  
-| **Keunggulan Kami** | **Detail** |
+## 🎯 **Why Choose BhinnekaDev?**  
+| **Our Strengths** | **Details** |
 |--------------------|---------------------------------|
-| 🔥 **Berpengalaman** | Tim kami memiliki latar belakang kuat dalam teknologi. |
-| 🎨 **Kualitas Terbaik** | Desain modern dengan performa optimal. |
-| 🛠️ **Teknologi Terbaru** | Selalu mengadopsi tren dan solusi inovatif. |
-| 🤝 **Kolaboratif** | Terbuka untuk kerja sama dan komunikasi aktif. |
+| 🔥 **Experienced** | Our team has a strong background in technology. |
+| 🎨 **Top Quality** | Modern design with optimal performance. |
+| 🛠️ **Latest Technology** | Always adopting trends and innovative solutions. |
+| 🤝 **Collaborative** | Open to partnerships and active communication. |
 
 ---
 
-## 💻 **Teknologi yang Kami Kuasai**  
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=ts,js,react,firebase,php,mysql,nextjs,nodejs,sass,html,css,tailwind,bootstrap,git,laravel,supabase,docker,postman" height="200" alt="tech stack logos" /> 
+## 💻 **Technologies We Master**  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,mysql,mongodb,supabase,firebase,docker,java,c,git,postman" />
 </div>
 
 ---
 
-## 📈 **Statistik & Performa**  
+## 📈 **Stats & Performance**  
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhinnekaDev&locale=en&layout=compact&theme=light&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=BhinnekaDev&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" alt="Statistik streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=BhinnekaDev&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" alt="Streak Stats" width="49%" />
 </div>
 
 ---
 
-## 📩 **Hubungi Kami**  
-🚀 **Siap berkolaborasi? Mari ciptakan inovasi bersama!**  
-📌 Hubungi kami untuk berdiskusi lebih lanjut:
+## 📩 **Contact Us**  
+🚀 **Ready to collaborate? Let’s innovate together!**  
+📌 Contact us to discuss further:
 <div align="center">
   <a href="mailto:bhinnekadev24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kami" />
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us" />
   </a>
 </div>
 
 ---
 
-## 🌟 **Ayo Wujudkan Ide Anda!**  
-💡 Kami percaya bahwa **ide besar** memerlukan eksekusi yang tepat. 
-✨ Dengan tim yang berpengalaman dan teknologi terkini, kami siap membantu Anda menciptakan solusi terbaik.
-🔥 **Mari bersama membangun masa depan digital yang lebih baik!**
+## 🌟 **Let’s Bring Your Ideas to Life!**  
+💡 We believe that **big ideas** need the right execution.  
+✨ With an experienced team and the latest technologies, we're ready to help you build the best solutions.  
+🔥 **Let’s build a better digital future together!**
 
+---
+
+Jika kamu butuh versi Markdown-nya dalam bentuk file atau ingin sedikit disesuaikan untuk resume, GitHub, atau website, beri tahu saja ya!
