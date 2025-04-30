@@ -65,5 +65,3 @@ We are **BhinnekaDev**, a professional development team focused on:
 🔥 **Let’s build a better digital future together!**
 
 ---
-
-Jika kamu butuh versi Markdown-nya dalam bentuk file atau ingin sedikit disesuaikan untuk resume, GitHub, atau website, beri tahu saja ya!
