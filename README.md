@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhinnekaDev&label=Visitors&color=yellowgreen&style=flat-square" alt="Visitors" />
+  <img src="https://komarev.comghpvc/?username=BhinnekaDev&label=Visitors&color=yellowgreen&style=flat-square" alt="Visitors" />
 </div>
 
 <div align="center">
