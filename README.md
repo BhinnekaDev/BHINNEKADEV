@@ -9,7 +9,7 @@
   <a href="https://bhinneka-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Our%20Portfolio-Website-orange?style=for-the-badge&logo=github" alt="Portfolio" /></a>
 </div>
 
-# 🚀 **Welcome to BhinnekaDev**  
+# 🚀 **Welcome to BhinnekaDev!**  
 ### **💡 An Innovative Developer Team from Indonesia**
 
 ---
