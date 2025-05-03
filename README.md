@@ -35,7 +35,7 @@ We are **BhinnekaDev**, a professional development team focused on:
 
 ## 💻 **Technologies We Master**  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,mysql,mongodb,supabase,firebase,docker,java,c,git,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,mysql,mongodb,supabase,firebase,docker,java,c,git,postman,nestjs" />
 </div>
 
 ---
